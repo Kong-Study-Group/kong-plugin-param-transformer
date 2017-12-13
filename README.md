@@ -25,7 +25,7 @@ curl -i -X POST \
 ```
 curl 'http://localhost:8000/test/123'
 
-kong will request http://mockbin.com/request/123?p1=123
+kong will request http://mockbin.com/request/123
 
 response
 {
