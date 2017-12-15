@@ -1,8 +1,8 @@
 package = "kong-plugin-param-transformer"
-version = "0.1-1"
+version = "0.1.1-1"
 source = {
    url = "git://github.com/Kong-Study-Group/kong-plugin-param-transformer",
-   tag = "0.1"
+   tag = "0.1.1"
 }
 description = {
    summary = "I can transfor param into upstream.",
