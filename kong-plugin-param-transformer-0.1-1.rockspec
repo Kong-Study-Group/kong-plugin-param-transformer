@@ -16,6 +16,5 @@ build = {
    modules = {
       ["kong.plugins.param-transformer.handler"] = "kong/plugins/param-transformer/handler.lua",
       ["kong.plugins.param-transformer.schema"] = "kong/plugins/param-transformer/schema.lua",
-      ["spec.param-transformer.01-access_spec"] = "spec/param-transformer/01-access_spec.lua"
    }
 }
